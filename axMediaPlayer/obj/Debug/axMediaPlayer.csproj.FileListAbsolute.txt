@@ -1,0 +1,15 @@
+C:\Users\gunes\Desktop\mediaPLayer\axMediaPlayer\axMediaPlayer\obj\Debug\axMediaPlayer.csprojResolveAssemblyReference.cache
+C:\Users\gunes\Desktop\mediaPLayer\axMediaPlayer\axMediaPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\gunes\Desktop\mediaPLayer\axMediaPlayer\axMediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\gunes\Desktop\mediaPLayer\axMediaPlayer\axMediaPlayer\obj\Debug\axMediaPlayer.csproj.ResolveComReference.cache
+C:\Users\gunes\Desktop\mediaPLayer\axMediaPlayer\axMediaPlayer\obj\Debug\axMediaPlayer.Form1.resources
+C:\Users\gunes\Desktop\mediaPLayer\axMediaPlayer\axMediaPlayer\obj\Debug\axMediaPlayer.Properties.Resources.resources
+C:\Users\gunes\Desktop\mediaPLayer\axMediaPlayer\axMediaPlayer\obj\Debug\axMediaPlayer.csproj.GenerateResource.Cache
+C:\Users\gunes\Desktop\mediaPLayer\axMediaPlayer\axMediaPlayer\obj\Debug\axMediaPlayer.csproj.CoreCompileInputs.cache
+C:\Users\gunes\Desktop\mediaPLayer\axMediaPlayer\axMediaPlayer\bin\Debug\axMediaPlayer.exe.config
+C:\Users\gunes\Desktop\mediaPLayer\axMediaPlayer\axMediaPlayer\bin\Debug\axMediaPlayer.exe
+C:\Users\gunes\Desktop\mediaPLayer\axMediaPlayer\axMediaPlayer\bin\Debug\axMediaPlayer.pdb
+C:\Users\gunes\Desktop\mediaPLayer\axMediaPlayer\axMediaPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\gunes\Desktop\mediaPLayer\axMediaPlayer\axMediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\gunes\Desktop\mediaPLayer\axMediaPlayer\axMediaPlayer\obj\Debug\axMediaPlayer.exe
+C:\Users\gunes\Desktop\mediaPLayer\axMediaPlayer\axMediaPlayer\obj\Debug\axMediaPlayer.pdb
